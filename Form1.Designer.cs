@@ -43,7 +43,7 @@
             // 
             // btn1
             // 
-            this.btn1.BackColor = System.Drawing.Color.Red;
+            this.btn1.BackColor = System.Drawing.Color.yellow;
             this.btn1.Location = new System.Drawing.Point(50, 88);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(73, 60);
@@ -54,7 +54,7 @@
             // 
             // btn2
             // 
-            this.btn2.BackColor = System.Drawing.Color.Red;
+            this.btn2.BackColor = System.Drawing.Color.yellow;
             this.btn2.Location = new System.Drawing.Point(129, 88);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(75, 60);
@@ -65,7 +65,7 @@
             // 
             // btn3
             // 
-            this.btn3.BackColor = System.Drawing.Color.Red;
+            this.btn3.BackColor = System.Drawing.Color.yellow;
             this.btn3.Location = new System.Drawing.Point(210, 88);
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(73, 60);
@@ -76,7 +76,7 @@
             // 
             // btn4
             // 
-            this.btn4.BackColor = System.Drawing.Color.Red;
+            this.btn4.BackColor = System.Drawing.Color.yellow;
             this.btn4.Location = new System.Drawing.Point(50, 154);
             this.btn4.Name = "btn4";
             this.btn4.Size = new System.Drawing.Size(73, 60);
@@ -87,7 +87,7 @@
             // 
             // btn5
             // 
-            this.btn5.BackColor = System.Drawing.Color.Red;
+            this.btn5.BackColor = System.Drawing.Color.yellow;
             this.btn5.Location = new System.Drawing.Point(129, 154);
             this.btn5.Name = "btn5";
             this.btn5.Size = new System.Drawing.Size(75, 60);
@@ -98,7 +98,7 @@
             // 
             // btn6
             // 
-            this.btn6.BackColor = System.Drawing.Color.Red;
+            this.btn6.BackColor = System.Drawing.Color.yellow;
             this.btn6.Location = new System.Drawing.Point(210, 154);
             this.btn6.Name = "btn6";
             this.btn6.Size = new System.Drawing.Size(73, 60);
@@ -109,7 +109,7 @@
             // 
             // btn7
             // 
-            this.btn7.BackColor = System.Drawing.Color.Red;
+            this.btn7.BackColor = System.Drawing.Color.yellow;
             this.btn7.Location = new System.Drawing.Point(50, 220);
             this.btn7.Name = "btn7";
             this.btn7.Size = new System.Drawing.Size(73, 60);
@@ -120,7 +120,7 @@
             // 
             // btn8
             // 
-            this.btn8.BackColor = System.Drawing.Color.Red;
+            this.btn8.BackColor = System.Drawing.Color.yellow;
             this.btn8.Location = new System.Drawing.Point(129, 220);
             this.btn8.Name = "btn8";
             this.btn8.Size = new System.Drawing.Size(75, 60);
